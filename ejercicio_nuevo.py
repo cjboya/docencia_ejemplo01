@@ -12,3 +12,5 @@ print("Nuevo")
 print("agrego")
 
 print("rama b")
+
+git remote add origin https://github.com/cjboya/nuevo_repo.git
